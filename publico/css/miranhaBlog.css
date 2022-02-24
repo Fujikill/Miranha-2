@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+.h1 {
+    opacity: 100%;
+    background-image: linear-gradient(180deg, red, blue);
+    background-size: cover;
+    display: flex;
+    border-bottom: 7px #340241 double;
+    box-shadow: 0 5px 0 rgb(5, 5, 61);
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    padding: 10px;
+}
+
+h1 {
+    text-shadow: rgb(94, 57, 57) 0.1em 0.1em;
+    color: white;
+    font-size: 38px;
+}
+
+h5 {
+    font-size: 26px;
+    font-family: 'Gill Sans', sans-serif;
+    text-shadow: black 0.1em 0.1em;
+    color: white;
+    box-shadow: black 0.2em 0.2em;
+    background-color: blue;
+    opacity: 80%;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Gill Sans', sans-serif;
+    text-shadow: black 0.1em 0.1em;
+    color: white;
+    background-color: rgba(48, 98, 82, 0.863);
+    box-shadow: black 0.1em 0.2em;
+}
